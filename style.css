@@ -15,6 +15,10 @@ h1{
 
 }
 
+h1:hover{
+	font-size: 5em;
+}
+
 h2{
 color: #FFF;
 font-family: "Josefin Sans",sans-serif;
@@ -33,4 +37,29 @@ font-family: "Josefin Sans",sans-serif;
 text-align: center;
 font-size: 1em;
 
+}
+
+.wrapper{
+	position: relative;
+	margin: 0 auto;
+	width:300px;
+
+}
+
+.container{
+	height: 300px;
+	width:300px;
+	border-radius: 300px;
+	background-color: #1281a6;
+	cursor: pointer;
+
+	overflow: hidden;
+}
+
+.image{
+height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url("Tjejerkodar_stickers.png");
 }
