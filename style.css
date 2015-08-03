@@ -1,0 +1,26 @@
+html{
+	background-color: rgba(56,56,56,0);
+
+}
+
+h1{
+	color: #fff;
+	font-family:'Josefin Sans', sans-serif;
+	text-align: center;
+	font-size: 3em;
+	font-weight: 100;
+	line-height: 48px;
+	margin-top: 24px;
+
+}
+
+h2{
+color: #FFF;
+font-family: "Josefin Sans",sans-serif;
+text-align: center;
+font-size: 1em;
+font-weight: 300;
+margin-bottom: 36px;
+margin-top: -18px;
+
+}
